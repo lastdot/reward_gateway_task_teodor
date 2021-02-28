@@ -5,7 +5,7 @@ production environment. You should assume the presence of a web server
 serving traffic on port 80."
 
   My solution to it:
-    Run the Bash script "hardening_rg.sh" supplied in this repository on a default CentOS 7 installation. The script will harden the base installation and will also install and harden the Apache web server.
+    Run the Bash script "hardening_rg.sh" supplied in this repository as the root user on a default CentOS 7 installation. The script will harden the base installation and will also install and harden the Apache web server.
   
   Thank you for your time,
                     Teodor Kunev
